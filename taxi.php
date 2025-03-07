@@ -208,7 +208,7 @@
                     $date = $_POST['date'];
 
                     // Set recipient email address
-                    $to = "your-email@example.com"; // Replace with your email address
+                    $to = "wgthiran@example.com"; // Replace with your email address
                     $subject = "New Taxi Booking Request";
 
                     // Prepare the email body
