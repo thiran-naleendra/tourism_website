@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from wpocean.com/html/tf/varaus/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Mar 2025 03:13:51 GMT -->
+
 
 <head>
     <!-- Meta Tags -->
@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="wpoceans">
     <!-- Page Title -->
-    <title>Varaus - Hotel Booking HTML5 Template</title>
+    <title>Perl Lanka</title>
     <!-- Icon fonts -->
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">
@@ -51,33 +51,14 @@
         </div>
         <!-- end preloader -->
         <!-- Start header -->
-        <header id="header" class="site-header header-style-2">
-            <nav class="navigation navbar navbar-default">
-                <div class="container-fluid">
-                    <div class="navbar-header">
-                        <button type="button" class="open-btn">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <a class="navbar-brand" href="index.html"><img src="assets/images/logo.png" alt=""></a>
-                    </div>
-                    <div id="navbar" class="navbar-collapse collapse navigation-holder">
-                        <button class="close-navbar"><i class="ti-close"></i></button>
-                        <?php include 'nav.php' ?>
-                    </div><!-- end of nav-collapse -->
-
-                </div><!-- end of container -->
-            </nav>
-        </header>
+        <?php include 'header.php' ?>
         <!-- end of header -->
         <!-- start page-title -->
-        <section class="page-title">
+        <section class="page-title" style="background: url('https://images.unsplash.com/photo-1490650404312-a2175773bbf5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); background-size: cover; background-position: center;">
             <div class="container">
                 <div class="row">
                     <div class="col col-xs-12">
-                        <h2>Contact Us</h2>
+                        <h2>Book a Taxi</h2>
                         <ol class="breadcrumb">
                             <li><a href="index.html">Home</a></li>
                             <li>Contact</li>
@@ -102,7 +83,7 @@
                                         <span>Hotel Address</span>
                                     </div>
                                 </div>
-                                <h2>25 North Street,Dubai</h2>
+                                <h2>Ahangama</h2>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12">
@@ -115,7 +96,7 @@
                                         <span>Official Mail</span>
                                     </div>
                                 </div>
-                                <h2>info@varaus.com</h2>
+                                <h2>info@test.com</h2>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12">
@@ -128,7 +109,7 @@
                                         <span>Official Phone</span>
                                     </div>
                                 </div>
-                                <h2>+91 256-987-239</h2>
+                                <h2>000000000</h2>
                             </div>
                         </div>
                     </div>
@@ -137,80 +118,114 @@
                 <div class="contact-content">
                     <h2>Book a Taxi</h2>
                     <div class="contact-form">
-                    <form method="post" class="contact-validation-active" id="contact-form" action="send_email.php">
-                            <!-- Name -->
-                            <div class="half-col">
-                                <input type="text" name="fname" id="fname" class="form-control" placeholder="First Name*" required>
-                            </div>
-                            <div class="half-col">
-                                <input type="text" name="lname" id="lname" class="form-control" placeholder="Last Name*" required>
-                            </div>
+                        <div class="contact-content">
+                            
+                            <div class="contact-form">
+                                <form method="post" class="contact-validation-active" id="contact-form">
+                                    <!-- Name -->
+                                    <div class="half-col">
+                                        <input type="text" name="fname" id="fname" class="form-control" placeholder="First Name*" required>
+                                    </div>
+                                    <div class="half-col">
+                                        <input type="text" name="lname" id="lname" class="form-control" placeholder="Last Name*" required>
+                                    </div>
 
-                            <!-- Email -->
-                            <div class="half-col">
-                                <input type="email" name="email" id="email" class="form-control" placeholder="Email Address*" required>
-                            </div>
+                                    <!-- Email -->
+                                    <div class="half-col">
+                                        <input type="email" name="email" id="email" class="form-control" placeholder="Email Address*" required>
+                                    </div>
 
-                            <!-- Contact Number -->
-                            <div class="half-col">
-                                <input type="text" name="contactno" id="contactno" class="form-control" placeholder="Contact Number*" required>
-                            </div>
+                                    <!-- Contact Number -->
+                                    <div class="half-col">
+                                        <input type="text" name="contactno" id="contactno" class="form-control" placeholder="Contact Number*" required>
+                                    </div>
 
-                            <!-- Number of Passengers -->
-                            <div class="half-col">
-                                <input type="number" name="no_of_passengers" id="no_of_passengers" class="form-control" placeholder="Number of Passengers*" required>
-                            </div>
+                                    <!-- Number of Passengers -->
+                                    <div class="half-col">
+                                        <input type="number" name="no_of_passengers" id="no_of_passengers" class="form-control" placeholder="Number of Passengers*" required>
+                                    </div>
 
-                            <!-- Number of Kids -->
-                            <div class="half-col">
-                                <input type="number" name="no_of_kids" id="no_of_kids" class="form-control" placeholder="Number of Kids" required>
-                            </div>
+                                    <!-- Number of Kids -->
+                                    <div class="half-col">
+                                        <input type="number" name="no_of_kids" id="no_of_kids" class="form-control" placeholder="Number of Kids" required>
+                                    </div>
 
-                            <!-- Where to Go (Destination) -->
-                            <div>
-                                <input type="text" name="destination" id="destination" class="form-control" placeholder="Where to Go*" required>
-                            </div>
+                                    <!-- Where to Go (Destination) -->
+                                    <div>
+                                        <input type="text" name="destination" id="destination" class="form-control" placeholder="Where to Go*" required>
+                                    </div>
 
-                            <!-- Date -->
-                            <div>
-                                <input type="date" name="date" id="date" class="form-control" placeholder="Pick-up Date*" required>
-                            </div>
+                                    <!-- Date -->
+                                    <div>
+                                        <input type="date" name="date" id="date" class="form-control" placeholder="Pick-up Date*" required>
+                                    </div>
 
-                            <!-- Submit Button -->
-                            <div class="submit-btn-wrapper">
-                                <button type="submit" class="theme-btn-s2">Book Taxi</button>
-                                <div id="loader">
-                                    <i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>
-                                </div>
-                            </div>
+                                    <!-- Submit Button -->
+                                    <div class="submit-btn-wrapper">
+                                        <button type="button" class="theme-btn-s2" id="whatsapp-submit">Book Taxi</button>
+                                    </div>
 
-                            <!-- Success/Error Handling -->
-                            <div class="clearfix error-handling-messages">
-                                <div id="success">Your taxi booking has been received. We will contact you shortly.</div>
-                                <div id="error">An error occurred while submitting your request. Please try again later.</div>
+                                    <!-- Success/Error Handling -->
+                                    <div class="clearfix error-handling-messages">
+                                        <div id="success">Your taxi booking has been received. We will contact you shortly.</div>
+                                        <div id="error">An error occurred while submitting your request. Please try again later.</div>
+                                    </div>
+                                </form>
                             </div>
-                        </form>
+                        </div>
+
                     </div>
-                </div>
-
-
-
-                
 
 
 
 
+                    <script>
+                        document.getElementById('whatsapp-submit').addEventListener('click', function() {
+                            // Get form data
+                            var fname = document.getElementById('fname').value;
+                            var lname = document.getElementById('lname').value;
+                            var email = document.getElementById('email').value;
+                            var contactno = document.getElementById('contactno').value;
+                            var no_of_passengers = document.getElementById('no_of_passengers').value;
+                            var no_of_kids = document.getElementById('no_of_kids').value;
+                            var destination = document.getElementById('destination').value;
+                            var date = document.getElementById('date').value;
 
-                <div class="contact-map">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.9147703055!2d-74.11976314309273!3d40.69740344223377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbd!4v1547528325671" allowfullscreen></iframe>
+                            // Create the message for WhatsApp
+                            var message = "Taxi Booking Details:\n";
+                            message += "Name: " + fname + " " + lname + "\n";
+                            message += "Email: " + email + "\n";
+                            message += "Contact Number: " + contactno + "\n";
+                            message += "No of Passengers: " + no_of_passengers + "\n";
+                            message += "No of Kids: " + no_of_kids + "\n";
+                            message += "Destination: " + destination + "\n";
+                            message += "Date: " + date;
+
+                            // WhatsApp phone number (your WhatsApp number)
+                            var phoneNumber = "+94769651875"; // Replace with your phone number (e.g., "1234567890")
+
+                            // Create the WhatsApp URL
+                            var whatsappUrl = "https://wa.me/" + phoneNumber + "?text=" + encodeURIComponent(message);
+
+                            // Open WhatsApp with the pre-filled message
+                            window.open(whatsappUrl, '_blank');
+                        });
+                    </script>
+
+
+
+
+
+                    <div class="contact-map">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.322249924149!2d80.4582268!3d5.9502578999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae13f0877c02617%3A0x955e03b644b3fc0c!2sHide%20Place!5e0!3m2!1sen!2slk!4v1741330981057!5m2!1sen!2slk" allowfullscreen></iframe>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- contact-area end -->
-    <!-- start wpo-site-footer -->
-    <?php include 'footer.php' ?>
-    <!-- end wpo-site-footer -->
+        <!-- contact-area end -->
+        <!-- start wpo-site-footer -->
+        <?php include 'footer.php' ?>
+        <!-- end wpo-site-footer -->
     </div>
     <!-- All JavaScript files
     ================================================== -->
