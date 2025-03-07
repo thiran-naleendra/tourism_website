@@ -1,5 +1,5 @@
 <ul class="nav navbar-nav">
-    <li >
+    <li>
         <a href="index.php">Home</a>
     </li>
 
@@ -7,11 +7,11 @@
         <a href="destination.php">Destination</a>
     </li>
 
-    <li >
+    <li>
         <a href="service.php">Service</a>
     </li>
 
-    <li >
+    <li>
         <a href="blog-fullwidth.html">Blog </a>
 
     </li>
@@ -19,4 +19,9 @@
     <li>
         <a href="contact.html">Contact</a>
     </li>
+    <li>
+        <a href="taxi.php">Book a Taxi</a>
+    </li>
 </ul>
+
+
