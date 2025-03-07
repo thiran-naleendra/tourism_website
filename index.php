@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from wpocean.com/html/tf/varaus/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Mar 2025 03:13:38 GMT -->
+
 
 <head>
     <!-- Meta Tags -->
@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="wpoceans">
     <!-- Page Title -->
-    <title>Varaus - Hotel Booking HTML5 Template</title>
+    <title>Perl Lanka</title>
     <!-- Icon fonts -->
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">
