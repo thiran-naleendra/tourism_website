@@ -32,10 +32,13 @@
     <!-- Custom styles for this template -->
     <link href="assets/css/style.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
+    <!-- [if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <![endif] -->
+    <style>
+        
+    </style>
 </head>
 
 <body id="home">
@@ -76,7 +79,7 @@
                 </div>
                 <div class="slide">
                     <div class="container">
-                        <img src="https://images.unsplash.com/photo-1588598198321-9735fd52455b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt class="slider-bg">
+                        <img src="https://images.unsplash.com/photo-1588598198321-9735fd52455b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  alt class="slider-bg">
                         <div class="row">
                             <div class="col col-md-8 slide-caption">
                                 <div class="slide-title">
@@ -177,7 +180,7 @@
                     <div class="item">
                         <div class="destination-item">
                             <div class="destination-img">
-                                <img src="https://images.unsplash.com/photo-1585747339851-3c85affaa17f?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 ;height: 70vh;" alt="">
+                                <img src="https://images.unsplash.com/photo-1585747339851-3c85affaa17f?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 !important;height: 70vh !important;" alt="">
                             </div>
                             <div class="destination-content">
                                 <div class="" style="text-align: center;">
@@ -189,7 +192,7 @@
                     <div class="item" style="width: 50vh; height: 80vh;">
                         <div class="destination-item">
                             <div class="destination-img">
-                                <img src="https://images.unsplash.com/photo-1678456570761-29c59dd8df06?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 ;height: 70vh;" alt="">
+                                <img src="https://images.unsplash.com/photo-1678456570761-29c59dd8df06?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 !important;height: 70vh !important;" alt="">
                             </div>
                             <div class="destination-content">
                                 <div class="" style="text-align: center;">
@@ -201,7 +204,7 @@
                     <div class="item" style="width: 50vh; height: 80vh;">
                         <div class="destination-item">
                             <div class="destination-img">
-                                <img src="https://images.unsplash.com/photo-1711797750174-c3750dd9d7c9?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 ;height: 70vh;" alt="">
+                                <img src="https://images.unsplash.com/photo-1711797750174-c3750dd9d7c9?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 !important;height: 70vh !important;" alt="">
                             </div>
                             <div class="destination-content">
                                 <div class="" style="text-align: center;">
@@ -213,7 +216,7 @@
                     <div class="item" style="width: 50vh; height: 80vh;">
                         <div class="destination-item">
                             <div class="destination-img">
-                                <img src="https://images.unsplash.com/photo-1591025207163-942350e47db2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 ;height: 70vh;" alt="">
+                                <img src="https://images.unsplash.com/photo-1591025207163-942350e47db2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 !important;height: 70vh !important;" alt="">
                             </div>
                             <div class="destination-content">
                                 <div class="" style="text-align: center;">
@@ -225,7 +228,7 @@
                     <div class="item" style="width: 50vh; height: 80vh;">
                         <div class="destination-item">
                             <div class="destination-img">
-                                <img src="https://images.unsplash.com/photo-1472645977521-95bbf4f0a748?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 ;height: 70vh;" alt="">
+                                <img src="https://images.unsplash.com/photo-1472645977521-95bbf4f0a748?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 !important;height: 70vh !important;" alt="">
                             </div>
                             <div class="destination-content">
                                 <div class="" style="text-align: center;">
@@ -237,7 +240,7 @@
                     <div class="item" style="width: 50vh; height: 80vh;">
                         <div class="destination-item">
                             <div class="destination-img">
-                                <img src="https://plus.unsplash.com/premium_photo-1692049123591-680942259565?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 ;height: 70vh;" alt="">
+                                <img src="https://plus.unsplash.com/premium_photo-1692049123591-680942259565?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 !important;height: 70vh !important;" alt="">
                             </div>
                             <div class="destination-content">
                                 <div class="" style="text-align: center;">
@@ -249,7 +252,7 @@
                     <div class="item" style="width: 50vh; height: 80vh;">
                         <div class="destination-item">
                             <div class="destination-img">
-                                <img src="https://images.unsplash.com/photo-1581105302511-1791e895f579?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 ;height: 70vh;" alt="">
+                                <img src="https://images.unsplash.com/photo-1581105302511-1791e895f579?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 !important;height: 70vh !important;" alt="">
                             </div>
                             <div class="destination-content">
                                 <div class="" style="text-align: center;">
@@ -261,7 +264,7 @@
                     <div class="item" style="width: 50vh; height: 80vh;">
                         <div class="destination-item">
                             <div class="destination-img">
-                                <img src="https://images.unsplash.com/photo-1654180426587-bc755d72b33a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 ;height: 70vh;" alt="">
+                                <img src="https://images.unsplash.com/photo-1654180426587-bc755d72b33a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 !important;height: 70vh !important;" alt="">
                             </div>
                             <div class="destination-content">
                                 <div class="" style="text-align: center;">
@@ -273,7 +276,7 @@
                     <div class="item" style="width: 50vh; height: 80vh;">
                         <div class="destination-item">
                             <div class="destination-img">
-                                <img src="https://images.unsplash.com/photo-1564381564020-17161124fff1?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 ;height: 70vh;" alt="">
+                                <img src="https://images.unsplash.com/photo-1564381564020-17161124fff1?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 !important;height: 70vh !important;" alt="">
                             </div>
                             <div class="destination-content">
                                 <div class="" style="text-align: center;">
@@ -285,7 +288,7 @@
                     <div class="item" style="width: 50vh; height: 80vh;">
                         <div class="destination-item">
                             <div class="destination-img">
-                                <img src="https://images.unsplash.com/photo-1601505804121-45e2c5506c94?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 ;height: 70vh;" alt="">
+                                <img src="https://images.unsplash.com/photo-1601505804121-45e2c5506c94?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 !important;height: 70vh !important;" alt="">
                             </div>
                             <div class="destination-content">
                                 <div class="" style="text-align: center;">
@@ -294,10 +297,6 @@
                             </div>
                         </div>
                     </div>
-
-
-
-
                 </div>
             </div>
         </div>
@@ -420,10 +419,10 @@
                     <div class="blog-content">
                         <ul class="post-meta">
                             <li><a href="#">Sri Lanka</a></li>
-                           
+                            
                         </ul>
                         <h3><a href="blog-single.html">Exploring Kandy: The Heart of Sri Lanka’s Cultural Heritage</a></h3>
-                       
+                        
                     </div>
                 </div>
             </div>
@@ -440,7 +439,7 @@
                             
                         </ul>
                         <h3><a href="blog-single.html">Adventure Awaits in Ella: Hiking and Scenic Views</a></h3>
-                       
+                        
                     </div>
                 </div>
             </div>

@@ -10,7 +10,7 @@
     <meta name="author" content="wpoceans">
 
     <!-- Page Title -->
-    <title>Varaus - Hotel Booking HTML5 Template</title>
+    <title>Perl Lanka Tours</title>
 
     <!-- Icon fonts -->
     <link href="assets/css/themify-icons.css" rel="stylesheet">
