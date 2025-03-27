@@ -83,24 +83,21 @@
                 <div class="col-12">
                     <div class="wpo-section-title text-center">
                         <span>Populer Destination</span>
-                        <h2>Choose Your Country</h2>
+                        <h2>Choose Your  Destination</h2>
                     </div>
                 </div>
                 <div class="destination-carousel owl-carousel owl-theme owl-btn-center-lr owl-dots-primary-full owl-btn-3 m-b30 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
                     <div class="item">
                         <div class="destination-item">
                             <div class="destination-img">
-                                <img src="assets/images/destination/img-6.jpg" alt="">
+                                <img src="https://images.unsplash.com/photo-1728475393815-8f5f4fa0ccaa?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:70vh ;" alt="">
                             </div>
                             <div class="destination-content">
                                 <div class="content-left">
-                                    <h5>United Arab</h5>
-                                    <small>11 Jun 2020 - 22 Jun 2020</small>
+                                    <h5>Yaala</h5>
+                                    
                                 </div>
-                                <div class="content-right">
-                                    <h5>$750</h5>
-                                    <span>Per Day</span>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -108,17 +105,14 @@
                         <div class="service-media-bx">
                             <div class="destination-item">
                             <div class="destination-img">
-                                <img src="assets/images/destination/img-5.jpg" alt="">
+                                <img src="https://images.unsplash.com/photo-1585840772220-8eadfa34a811?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:70vh ;" alt="">
                             </div>
                             <div class="destination-content">
                                 <div class="content-left">
-                                    <h5>Paris, France</h5>
-                                    <small>11 Jun 2020 - 22 Jun 2020</small>
+                                    <h5>Udawalawa</h5>
+                                    
                                 </div>
-                                <div class="content-right">
-                                    <h5>$835</h5>
-                                    <span>Per Day</span>
-                                </div>
+                                
                             </div>
                         </div>
                         </div>
@@ -127,17 +121,14 @@
                         <div class="service-media-bx">
                             <div class="destination-item">
                                 <div class="destination-img">
-                                    <img src="assets/images/destination/img-9.jpg" alt="">
+                                    <img src="https://images.unsplash.com/photo-1707236606614-fbee3070f156?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:70vh ;" alt="">
                                 </div>
                                 <div class="destination-content">
                                     <div class="content-left">
-                                        <h5>Singapore</h5>
-                                        <small>11 Jun 2020 - 22 Jun 2020</small>
+                                        <h5>Mirissa</h5>
+                                        
                                     </div>
-                                    <div class="content-right">
-                                        <h5>$870</h5>
-                                        <span>Per Day</span>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -146,17 +137,14 @@
                         <div class="service-media-bx">
                             <div class="destination-item">
                                 <div class="destination-img">
-                                    <img src="assets/images/destination/img-7.jpg" alt="">
+                                    <img src="https://images.unsplash.com/photo-1725680968792-c8dce6d6cf18?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:70vh ;" alt="">
                                 </div>
                                 <div class="destination-content">
                                     <div class="content-left">
-                                        <h5>San Francisco</h5>
-                                        <small>11 Jun 2020 - 22 Jun 2020</small>
+                                        <h5>Jaffna</h5>
+                                        
                                     </div>
-                                    <div class="content-right">
-                                        <h5>$653</h5>
-                                        <span>Per Day</span>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -165,17 +153,14 @@
                         <div class="service-media-bx">
                             <div class="destination-item">
                                 <div class="destination-img">
-                                    <img src="assets/images/destination/img-8.jpg" alt="">
+                                    <img src="https://images.unsplash.com/photo-1581420455468-e748ad82ff50?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:70vh ;" alt="">
                                 </div>
                                 <div class="destination-content">
                                     <div class="content-left">
-                                        <h5>Singapore</h5>
-                                        <small>11 Jun 2020 - 22 Jun 2020</small>
+                                        <h5>Kandy</h5>
+                                       
                                     </div>
-                                    <div class="content-right">
-                                        <h5>$550</h5>
-                                        <span>Per Day</span>
-                                    </div>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -186,126 +171,10 @@
         <!-- destination Company END -->
 
 
-        <!-- start wpo-site-footer -->
-        <footer class="wpo-site-footer">
-            <div class="wpo-upper-footer">
-                <div class="wpo-footer-top">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-12 custom-grid">
-                                <div class="logo widget-title">
-                                    <img src="assets/images/logo.png" alt="blog">
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-12 custom-grid">
-                                <ul>
-                                    <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                    <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
-                                    <li><a href="#"><i class="ti-instagram"></i></a></li>
-                                    <li><a href="#"><i class="ti-google"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer-middle">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col col-lg-3 col-md-3 col-sm-6">
-                                <div class="widget market-widget wpo-service-link-widget">
-                                    <div class="widget-title">
-                                        <h3>Contact </h3>
-                                    </div>
-                                    <p>online store with lots of cool and exclusive features</p>
-                                    <div class="contact-ft">
-                                        <ul>
-                                            <li><i class="fi ti-location-pin"></i>28 Street, New York City, USA</li>
-                                            <li><i class="fi ti-mobile"></i>+000123456789</li>
-                                            <li><i class="fi flaticon-email"></i>Hastium@gmail.com</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col col-lg-3 col-md-3 col-sm-6">
-                                <div class="widget link-widget resource-widget">
-                                    <div class="widget-title">
-                                        <h3>Destination</h3>
-                                    </div>
-                                    <div class="news-wrap">
-                                        <div class="news-img">
-                                            <img src="assets/images/footer/img-1.jpg" alt="">
-                                        </div>
-                                        <div class="news-text">
-                                            <h3>Paris, France</h3>
-                                            <span>11 Jun 2020 - 22 Jun 2020</span>
-                                            <h2>$835</h2>
-                                        </div>
-                                    </div>
-                                    <div class="news-wrap">
-                                        <div class="news-img">
-                                            <img src="assets/images/footer/img-2.jpg" alt="">
-                                        </div>
-                                        <div class="news-text">
-                                            <h3>San Francisco</h3>
-                                            <span>11 Jun 2020 - 22 Jun 2020</span>
-                                            <h2>$835</h2>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col col-lg-3 col-md-3 col-sm-6">
-                                <div class="widget link-widget">
-                                    <div class="widget-title">
-                                        <h3>Useful Links</h3>
-                                    </div>
-                                    <ul>
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="room.html">Our Offers</a></li>
-                                        <li><a href="service.html">How Spread</a></li>
-                                        <li><a href="contact.html">Contact Us</a></li>
-                                        <li><a href="service-single.html">Our Event</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col col-lg-3 col-md-3 col-sm-6">
-                                <div class="widget newsletter-widget">
-                                    <div class="widget-title">
-                                        <h3>Newsletter</h3>
-                                    </div>
-                                    <form>
-                                        <div class="input-1">
-                                            <input type="email" class="form-control" placeholder="Email Address *" required="">
-                                        </div>
-                                        <div class="submit clearfix">
-                                            <button type="submit">subscribe<i class="ti-angle-right"></i></button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                            </div>
-                        </div> <!-- end container -->
-                    </div>
-                </div>
-                    
-                <div class="wpo-lower-footer">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col col-md-6 col-sm-6">
-                                <div class="term">
-                                    <ul>
-                                        <li><a href="#">Privecy Policy</a></li>
-                                        <li><a href="#">Terms & Condition</a></li>
-                                        <li><a href="#">Cookies</a></li>
-                                    </ul>
-                                </div>
-                            </div> 
-                            <div class="col col-md-6 col-sm-6">
-                                <p class="copyright">&copy; 2020 Venom. All rights reserved</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </footer>
+       <!-- start wpo-site-footer -->
+    <?php include 'footer.php' ?>
+    <!-- end wpo-site-footer -->
+
             <!-- end wpo-site-footer -->
     </div>
 

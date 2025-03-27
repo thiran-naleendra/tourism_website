@@ -31,7 +31,7 @@
                             <div class="contact-ft">
                                 <ul>
                                     <li><i class="fi ti-location-pin"></i>AHANGAMA.</li>
-                                    <li><i class="fi ti-mobile"></i>(+94767094860</li>
+                                    <li><i class="fi ti-mobile"></i>(+94)767094860</li>
                                     <li><i class="fi flaticon-email"></i>pearllankatourz@gmail.com</li>
                                 </ul>
                             </div>

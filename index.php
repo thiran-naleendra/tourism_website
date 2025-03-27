@@ -68,7 +68,7 @@
                                     <p>Make Your Life Better and Bright! You must trip with Us!</p>
                                 </div>
                                 <div class="btns">
-                                    <a href="#" class="theme-btn">Book A Tour</a>
+                                    <a href="https://wa.link/5aoob0" class="theme-btn">Book A Tour</a>
                                 </div>
                             </div>
                         </div>
@@ -403,10 +403,10 @@
                     <div class="blog-content">
                         <ul class="post-meta">
                             <li><a href="#">Sri Lanka</a></li>
-                            <li> 10 Mar 2025</li>
+                            
                         </ul>
                         <h3><a href="blog-single.html">Top Things to Do in Colombo, Sri Lanka</a></h3>
-                        <a href="blog-single.html">Continue</a>
+                        
                     </div>
                 </div>
             </div>
@@ -420,10 +420,10 @@
                     <div class="blog-content">
                         <ul class="post-meta">
                             <li><a href="#">Sri Lanka</a></li>
-                            <li> 12 Mar 2025</li>
+                           
                         </ul>
                         <h3><a href="blog-single.html">Exploring Kandy: The Heart of Sri Lanka’s Cultural Heritage</a></h3>
-                        <a href="blog-single.html">Continue</a>
+                       
                     </div>
                 </div>
             </div>
@@ -437,10 +437,10 @@
                     <div class="blog-content">
                         <ul class="post-meta">
                             <li><a href="#">Sri Lanka</a></li>
-                            <li> 15 Mar 2025</li>
+                            
                         </ul>
                         <h3><a href="blog-single.html">Adventure Awaits in Ella: Hiking and Scenic Views</a></h3>
-                        <a href="blog-single.html">Continue</a>
+                       
                     </div>
                 </div>
             </div>

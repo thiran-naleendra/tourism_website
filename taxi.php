@@ -68,6 +68,30 @@
             </div> <!-- end container -->
         </section>
         <!-- end page-title -->
+
+        <!-- destination Company -->
+        <div class="destination-service section-padding">
+            <div class="container">
+                <div class="col-12">
+                    <div class="wpo-section-title text-center">
+                        
+                        <h2>Reliable Taxi Services in Sri Lanka</h2>
+                        <p style="font-size: 24px !important:">  
+                            Travel hassle-free with Pearl Lanka Tours! We offer safe, affordable, and comfortable taxi services to top destinations across Sri Lanka. <br>
+
+                            🚲 Bikes | 🛺 Tuk Tuks | 🚗 Cars | 🚐 Vans & Mini Buses
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- destination Company END -->
+
+
+
+
+
+
         <!-- contact-area start -->
         <div id="Contact" class="contact-area section-padding">
             <div class="container">
@@ -80,7 +104,7 @@
                                         <i class="fi flaticon-internet"></i>
                                     </div>
                                     <div class="info-text">
-                                        <span>Hotel Address</span>
+                                        <span>Address</span>
                                     </div>
                                 </div>
                                 <h2>Ahangama</h2>
@@ -109,7 +133,7 @@
                                         <span>Official Phone</span>
                                     </div>
                                 </div>
-                                <h2>000000000</h2>
+                                <h2>(+94)767094860</h2>
                             </div>
                         </div>
                     </div>
@@ -119,7 +143,7 @@
                     <h2>Book a Taxi</h2>
                     <div class="contact-form">
                         <div class="contact-content">
-                            
+
                             <div class="contact-form">
                                 <form method="post" class="contact-validation-active" id="contact-form">
                                     <!-- Name -->

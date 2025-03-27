@@ -11,10 +11,10 @@
         <a href="service.php">Service</a>
     </li>
 
-    <li>
+    <!-- <li>
         <a href="blog-fullwidth.html">Blog </a>
 
-    </li>
+    </li> -->
 
     <li>
         <a href="contact.php">Contact</a>
