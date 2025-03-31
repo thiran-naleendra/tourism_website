@@ -120,7 +120,7 @@
                                         <span>Official Mail</span>
                                     </div>
                                 </div>
-                                <h2>info@test.com</h2>
+                                <h2>pearllankatourz@gmail.com</h2>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12">
@@ -241,7 +241,7 @@
 
 
                     <div class="contact-map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3968.322249924149!2d80.4582268!3d5.9502578999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae13f0877c02617%3A0x955e03b644b3fc0c!2sHide%20Place!5e0!3m2!1sen!2slk!4v1741330981057!5m2!1sen!2slk" allowfullscreen></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3968.0469603878796!2d80.36300987498849!3d5.988272193996729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNcKwNTknMTcuOCJOIDgwwrAyMSc1Ni4xIkU!5e0!3m2!1sen!2slk!4v1743387616452!5m2!1sen!2slk" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>

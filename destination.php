@@ -94,7 +94,7 @@
                             </div>
                             <div class="destination-content">
                                 <div class="content-left">
-                                    <h5>Yaala</h5>
+                                    <h5>Yala</h5>
                                     
                                 </div>
                                 

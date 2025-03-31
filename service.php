@@ -137,7 +137,7 @@
                                         </div>
                                         <div class="room-text-hide">
                                             <h2>Snake Farm Visit</h2>
-                                            <span>Twin Room</span>
+                                            
                                             <p>Get a rare opportunity to observe nearly 50% of Sri Lanka’s snake species in their natural habitat.
                                                 <li>🔎 See Various Snake Species</li>
                                                 <li>🌿 Learn About Their Habitats</li>
@@ -155,7 +155,7 @@
                                         </div>
                                         <div class="room-text-hide">
                                             <h2>Tea Plantation Visit</h2>
-                                            <span>Twin Room</span>
+                                            
                                             <p>Step into the lush tea plantations and experience the journey from leaf to cup.
                                                 <li>🌱 Walk Through Tea Fields</li>
                                                 <li>🍂 See the Tea-Making Process</li>
@@ -276,7 +276,7 @@
                                         <div class="room-text-hide">
                                             <h2>Ayurvedic Healing</h2>
 
-                                            <p>f you’re dealing with joint pain, stiffness, or muscle discomfort, Sri Lanka’s ancient Ayurveda treatments offer a natural and holistic solution. 🌿✨
+                                            <p>if you’re dealing with joint pain, stiffness, or muscle discomfort, Sri Lanka’s ancient Ayurveda treatments offer a natural and holistic solution. 🌿✨
 
 
 
@@ -290,6 +290,29 @@
                                     </div>
                                 </div>
 
+                                <div class="grid Classic Luxury Single">
+                                    <div class="room-item">
+                                        <img src="https://images.unsplash.com/photo-1613638377394-281765460baa?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width :40 ;height: 70vh;" alt class="img img-responsive">
+                                        <div class="room-text-show">
+                                            <h2>Taxi Service</h2>
+                                        </div>
+                                        <div class="room-text-hide">
+                                            <h2>Ayurvedic Healing</h2>
+
+                                            <p>Travel hassle-free with Pearl Lanka Tours! We offer safe, affordable, and comfortable taxi services to top destinations across Sri Lanka.
+
+
+
+                                                <li>🚲 Bikes</li>
+                                                <li> 🛺 Tuk Tuks</li>
+                                                <li>🚗 Cars</li>
+                                                <li>🚐 Vans & Mini Buses</li>
+                                                
+                                            </p>
+
+                                        </div>
+                                    </div>
+                                </div>
 
                             </div>
                         </div>
