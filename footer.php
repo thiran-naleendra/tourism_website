@@ -53,11 +53,8 @@
                                 <li class="menu-item-has-children">
                                     <a href="service.php">Service</a>
                                 </li>
-                                <li class="menu-item-has-children">
-                                    <a href="blog-fullwidth.html">Blog </a>
-
-                                </li>
-                                <li><a href="contact.html">Contact</a></li>
+                               
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </div>
                     </div>
