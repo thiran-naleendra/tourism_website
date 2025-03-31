@@ -71,7 +71,7 @@
                                     <p>Make Your Life Better and Bright! You must trip with Us!</p>
                                 </div>
                                 <div class="btns">
-                                    <a href="https://wa.link/5aoob0" class="theme-btn">Book A Tour</a>
+                                    <a href="https://wa.link/zmr3d9" class="theme-btn">Book A Tour</a>
                                 </div>
                             </div>
                         </div>
@@ -89,7 +89,7 @@
                                     <p>Make Your Life Better and Bright! You must trip with Us!</p>
                                 </div>
                                 <div class="btns">
-                                    <a href="#" class="theme-btn">Book A Tour</a>
+                                    <a href="https://wa.link/zmr3d9" class="theme-btn">Book A Tour</a>
                                 </div>
                             </div>
                         </div>
@@ -107,7 +107,7 @@
                                     <p>Make Your Life Better and Bright! You must trip with Us!</p>
                                 </div>
                                 <div class="btns">
-                                    <a href="#" class="theme-btn">Book A Tour</a>
+                                    <a href="https://wa.link/zmr3d9" class="theme-btn">Book A Tour</a>
                                 </div>
                             </div>
                         </div>
@@ -125,7 +125,7 @@
                                     <p>Make Your Life Better and Bright! You must trip with Us!</p>
                                 </div>
                                 <div class="btns">
-                                    <a href="#" class="theme-btn">Book A Room</a>
+                                    <a href="https://wa.link/zmr3d9" class="theme-btn">Book A Room</a>
                                 </div>
                             </div>
                         </div>
@@ -312,7 +312,7 @@
                     <div class="featured-img">
                         <img src="https://plus.unsplash.com/premium_photo-1681223447322-46794b8cdfd5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Beach Tours">
                         <div class="featured-content">
-                            <a href="tour-details.html">Beach Tours</a>
+                            <a >Beach Tours</a>
                         </div>
                     </div>
                 </div>
@@ -324,7 +324,7 @@
                     <div class="featured-img">
                         <img src="https://images.unsplash.com/photo-1546656495-fc838de15e5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="City Sightseeing">
                         <div class="featured-content">
-                            <a href="tour-details.html">City Sightseeing</a>
+                            <a >City Sightseeing</a>
                         </div>
                     </div>
                 </div>
@@ -336,7 +336,7 @@
                     <div class="featured-img">
                         <img src="https://images.unsplash.com/photo-1588598198321-9735fd52455b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Cultural Heritage Tours">
                         <div class="featured-content">
-                            <a href="tour-details.html">Cultural Heritage</a>
+                            <a >Cultural Heritage</a>
                         </div>
                     </div>
                 </div>
@@ -348,7 +348,7 @@
                     <div class="featured-img">
                         <img src="https://images.unsplash.com/photo-1664280573140-1cfaa612c157?q=80&w=2122&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Wildlife Safari">
                         <div class="featured-content">
-                            <a href="tour-details.html">Wildlife Safari</a>
+                            <a >Wildlife Safari</a>
                         </div>
                     </div>
                 </div>
@@ -360,7 +360,7 @@
                     <div class="featured-img">
                         <img src="https://images.unsplash.com/photo-1692810123077-ebb9993aaff5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Adventure Activities">
                         <div class="featured-content">
-                            <a href="tour-details.html">Adventure Activities</a>
+                            <a>Activities</a>
                         </div>
                     </div>
                 </div>
@@ -372,7 +372,7 @@
                     <div class="featured-img">
                         <img src="https://images.unsplash.com/photo-1598255055647-47503261dccf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Island Hopping">
                         <div class="featured-content">
-                            <a href="tour-details.html">Island Hopping</a>
+                            <a >Island Hopping</a>
                         </div>
                     </div>
                 </div>
@@ -401,7 +401,7 @@
                     </div>
                     <div class="blog-content">
                         <ul class="post-meta">
-                            <li><a href="#">Sri Lanka</a></li>
+                            <li><a >Sri Lanka</a></li>
                             
                         </ul>
                         <h3><a href="blog-single.html">Top Things to Do in Colombo, Sri Lanka</a></h3>

@@ -74,9 +74,9 @@
             <div class="container">
                 <div class="col-12">
                     <div class="wpo-section-title text-center">
-                        
+
                         <h2>Reliable Taxi Services in Sri Lanka</h2>
-                        <p style="font-size: 24px !important:">  
+                        <p style="font-size: 24px !important:">
                             Travel hassle-free with Pearl Lanka Tours! We offer safe, affordable, and comfortable taxi services to top destinations across Sri Lanka. <br>
 
                             🚲 Bikes | 🛺 Tuk Tuks | 🚗 Cars | 🚐 Vans & Mini Buses
@@ -179,6 +179,19 @@
                                         <input type="text" name="destination" id="destination" class="form-control" placeholder="Where to Go*" required>
                                     </div>
 
+                                    <!-- Vehicle Selection -->
+                                    <div>
+                                        <select name="vehicle" id="vehicle" class="form-control" required>
+                                            <option value="">Select a Vehicle</option>
+                                            <option value="bicycle">Bicycle</option>
+                                            <option value="motorbike">Moto Bike</option>
+                                            <option value="mini_car">Car - Mini</option>
+                                            <option value="sedan">Car - Sedan</option>
+                                            <option value="van">Van</option>
+                                            <option value="mini_bus">Mini Bus</option>
+                                        </select>
+                                    </div>
+
                                     <!-- Date -->
                                     <div>
                                         <input type="date" name="date" id="date" class="form-control" placeholder="Pick-up Date*" required>
@@ -214,6 +227,12 @@
                             var no_of_kids = document.getElementById('no_of_kids').value;
                             var destination = document.getElementById('destination').value;
                             var date = document.getElementById('date').value;
+                            var vehicle = document.getElementById('vehicle').value;
+
+                            if (vehicle === "") {
+                                alert("Please select a vehicle type.");
+                                return;
+                            }
 
                             // Create the message for WhatsApp
                             var message = "Taxi Booking Details:\n";
@@ -223,10 +242,11 @@
                             message += "No of Passengers: " + no_of_passengers + "\n";
                             message += "No of Kids: " + no_of_kids + "\n";
                             message += "Destination: " + destination + "\n";
+                            message += "Vehicle: " + vehicle + "\n";
                             message += "Date: " + date;
 
                             // WhatsApp phone number (your WhatsApp number)
-                            var phoneNumber = "+94769651875"; // Replace with your phone number (e.g., "1234567890")
+                            var phoneNumber = "+94767094860"; // Replace with your phone number
 
                             // Create the WhatsApp URL
                             var whatsappUrl = "https://wa.me/" + phoneNumber + "?text=" + encodeURIComponent(message);

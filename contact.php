@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from wpocean.com/html/tf/varaus/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Mar 2025 03:13:51 GMT -->
+
 <head>
     <!-- Meta Tags -->
     <meta charset="utf-8">
@@ -79,10 +80,10 @@
                                         <i class="fi flaticon-internet"></i>
                                     </div>
                                     <div class="info-text">
-                                        <span>Hotel Address</span>
+                                        <span>Address</span>
                                     </div>
                                 </div>
-                                <h2>25 North Street,Dubai</h2>
+                                <h2>Ahangama</h2>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12">
@@ -95,7 +96,7 @@
                                         <span>Official Mail</span>
                                     </div>
                                 </div>
-                                <h2>info@varaus.com</h2>
+                                <h2>pearllankatourz@gmail.com</h2>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 col-12">
@@ -108,46 +109,46 @@
                                         <span>Official Phone</span>
                                     </div>
                                 </div>
-                                <h2>+91 256-987-239</h2>
+                                <h2>(+94)767094860</h2>
                             </div>
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="contact-content">
                     <h2>Send a Message</h2>
                     <div class="contact-form">
-                        <form method="post" class="contact-validation-active" id="contact-form">
-                            <div class="half-col">
-                                <input type="text" name="fname" id="fname" class="form-control" placeholder="First Name*">
+                        <form id="contact-form">
+                            <div class="form-group">
+                                <input type="text" id="fname" class="form-control" placeholder="First Name*" required>
                             </div>
-                            <div class="half-col">
-                                <input type="text" name="lname" id="lname" class="form-control" placeholder="Last Name*">
+                            <div class="form-group">
+                                <input type="text" id="lname" class="form-control" placeholder="Last Name*" required>
                             </div>
-                            <div class="half-col">
-                                <input type="email" name="email" id="email" class="form-control" placeholder="Email Address*">
+                            <div class="form-group">
+                                <input type="email" id="email" class="form-control" placeholder="Email*" required>
                             </div>
-                            <div class="half-col">
-                                <input type="text" name="subject" id="subject" class="form-control" placeholder="Subjects">
+                            <div class="form-group">
+                                <input type="text" id="subject" class="form-control" placeholder="Subject*" required>
                             </div>
-                            <div>
-                                <textarea class="form-control" name="note" id="note" placeholder="283a5e"></textarea>
+                            <div class="form-group">
+                                <textarea id="note" class="form-control" placeholder="Type Here*" required></textarea>
                             </div>
                             <div class="submit-btn-wrapper">
-                                <button type="submit" class="theme-btn-s2">Send Message</button>
-                                <div id="loader">
+                                <button type="submit" class="btn btn-success">Send via WhatsApp</button>
+                                <div id="loader" style="display: none;">
                                     <i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>
                                 </div>
                             </div>
                             <div class="clearfix error-handling-messages">
-                                <div id="success">Message has been sent</div>
-                                <div id="error"> Error occurred while sending email. Please try again later. </div>
+                                <div id="success" style="display: none; color: green;">Message has been sent</div>
+                                <div id="error" style="display: none; color: red;">Error occurred while sending. Try again.</div>
                             </div>
                         </form>
                     </div>
                 </div>
                 <div class="contact-map">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.9147703055!2d-74.11976314309273!3d40.69740344223377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbd!4v1547528325671" allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3968.0469603878796!2d80.36300987498849!3d5.988272193996729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNcKwNTknMTcuOCJOIDgwwrAyMSc1Ni4xIkU!5e0!3m2!1sen!2slk!4v1743387616452!5m2!1sen!2slk" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -162,6 +163,50 @@
     </div>
     <!-- All JavaScript files
     ================================================== -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            document.getElementById("contact-form").addEventListener("submit", function(event) {
+                event.preventDefault(); // Prevent form submission
+
+                // Show loader
+                document.getElementById("loader").style.display = "block";
+
+                // Get form data
+                var fname = document.getElementById("fname").value.trim();
+                var lname = document.getElementById("lname").value.trim();
+                var email = document.getElementById("email").value.trim();
+                var subject = document.getElementById("subject").value.trim();
+                var note = document.getElementById("note").value.trim();
+
+                // Validate fields
+                if (!fname || !lname || !email || !subject || !note) {
+                    alert("Please fill out all fields.");
+                    document.getElementById("loader").style.display = "none";
+                    return;
+                }
+
+                // Create WhatsApp message
+                var message = `📩 *New Contact Form Submission*\n\n`;
+                message += `👤 Name: ${fname} ${lname}\n`;
+                message += `📧 Email: ${email}\n`;
+                message += `📌 Subject: ${subject}\n`;
+                message += `📝 Message: ${note}`;
+
+                // WhatsApp phone number
+                var phoneNumber = "+94767094860";
+
+                // Generate WhatsApp URL
+                var whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
+
+                // Open WhatsApp chat
+                window.open(whatsappUrl, "_blank");
+
+                // Hide loader and show success message
+                document.getElementById("loader").style.display = "none";
+                document.getElementById("success").style.display = "block";
+            });
+        });
+    </script>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/owl.carousel.min.js"></script>
@@ -170,8 +215,10 @@
     <script src="assets/js/bootstrap-datepicker.min.js"></script>
     <!-- Custom script for this template -->
     <script src="assets/js/script.js"></script>
+
 </body>
 
 
 <!-- Mirrored from wpocean.com/html/tf/varaus/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Mar 2025 03:13:51 GMT -->
+
 </html>
