@@ -65,7 +65,7 @@
                         <div class="row">
                             <div class="col col-md-8 slide-caption">
                                 <div class="slide-title">
-                                    <h2>Perl Lanka Tours</h2>
+                                    <h2>Pearl Lanka Tours</h2>
                                 </div>
                                 <div class="slide-subtitle">
                                     <p>Make Your Life Better and Bright! You must trip with Us!</p>
@@ -83,7 +83,7 @@
                         <div class="row">
                             <div class="col col-md-8 slide-caption">
                                 <div class="slide-title">
-                                    <h2>Perl Lanka Tours</h2>
+                                    <h2>Pearl Lanka Tours</h2>
                                 </div>
                                 <div class="slide-subtitle">
                                     <p>Make Your Life Better and Bright! You must trip with Us!</p>
@@ -101,7 +101,7 @@
                         <div class="row">
                             <div class="col col-md-8 slide-caption">
                                 <div class="slide-title">
-                                    <h2>Perl Lanka Tours</h2>
+                                    <h2>Pearl Lanka Tours</h2>
                                 </div>
                                 <div class="slide-subtitle">
                                     <p>Make Your Life Better and Bright! You must trip with Us!</p>
@@ -119,7 +119,7 @@
                         <div class="row">
                             <div class="col col-md-8 slide-caption">
                                 <div class="slide-title">
-                                    <h2>Perl Lanka Tours</h2>
+                                    <h2>Pearl Lanka Tours</h2>
                                 </div>
                                 <div class="slide-subtitle">
                                     <p>Make Your Life Better and Bright! You must trip with Us!</p>
@@ -156,9 +156,9 @@
                                 and the chance to explore the island’s natural beauty. Enjoy activities like snorkeling, diving, and photography, or relax on the beaches.
                                 We also offer bike and car rentals, surf lessons, and board rentals, ensuring an adventure-packed or laid-back holiday. With Pearl Lanka Tours,
                                 you're guaranteed an experience full of lasting memories.</p>
-                            <div class="btns">
+                            <!-- <div class="btns">
                                 <a href="about.html" class="theme-btn-s2" tabindex="0">More About Us</a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
