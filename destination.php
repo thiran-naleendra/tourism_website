@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from wpocean.com/html/tf/varaus/destination.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Mar 2025 03:13:43 GMT -->
+
 <head>
     <!-- Meta Tags -->
     <meta charset="utf-8">
@@ -61,13 +61,13 @@
         <?php include 'header.php' ?>
         <!-- end of header -->
         <!-- start page-title -->
-        <section class="page-title">
+        <section class="page-title" style="background: url('https://images.pexels.com/photos/2403209/pexels-photo-2403209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'); background-size: cover; background-position: center;">
             <div class="container">
                 <div class="row">
                     <div class="col col-xs-12">
                         <h2>Destination</h2>
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li>Destination</li>
                         </ol>
                     </div>

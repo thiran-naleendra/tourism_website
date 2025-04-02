@@ -1,3 +1,4 @@
+<?php include 'whatsapp.php' ?>
 <footer class="wpo-site-footer">
     <div class="wpo-upper-footer">
         <div class="wpo-footer-top">

@@ -37,7 +37,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif] -->
     <style>
-        
+
     </style>
 </head>
 
@@ -79,7 +79,7 @@
                 </div>
                 <div class="slide">
                     <div class="container">
-                        <img src="https://images.unsplash.com/photo-1588598198321-9735fd52455b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  alt class="slider-bg">
+                        <img src="https://images.unsplash.com/photo-1588598198321-9735fd52455b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt class="slider-bg">
                         <div class="row">
                             <div class="col col-md-8 slide-caption">
                                 <div class="slide-title">
@@ -302,153 +302,153 @@
         </div>
         <!-- destination Company END -->
 
-<!-- featured-area start -->
-<div class="featured-area featured-sub">
-    <div class="container-fluid">
-        <div class="row grid ">
-            <!-- Beach Tours -->
-            <div class="col-lg-4 items col-md-6 col-sm-6 col-12">
-                <div class="featured-wrap">
-                    <div class="featured-img">
-                        <img src="https://plus.unsplash.com/premium_photo-1681223447322-46794b8cdfd5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Beach Tours">
-                        <div class="featured-content">
-                            <a >Beach Tours</a>
+        <!-- featured-area start -->
+        <div class="featured-area featured-sub">
+            <div class="container-fluid">
+                <div class="row grid ">
+                    <!-- Beach Tours -->
+                    <div class="col-lg-4 items col-md-6 col-sm-6 col-12">
+                        <div class="featured-wrap">
+                            <div class="featured-img">
+                                <img src="https://plus.unsplash.com/premium_photo-1681223447322-46794b8cdfd5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Beach Tours">
+                                <div class="featured-content">
+                                    <a href="service.php">Beach Tours</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
 
-            <!-- City Sightseeing -->
-            <div class="col-lg-4 items col-md-6 col-sm-6 col-12">
-                <div class="featured-wrap">
-                    <div class="featured-img">
-                        <img src="https://images.unsplash.com/photo-1546656495-fc838de15e5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="City Sightseeing">
-                        <div class="featured-content">
-                            <a >City Sightseeing</a>
+                    <!-- City Sightseeing -->
+                    <div class="col-lg-4 items col-md-6 col-sm-6 col-12">
+                        <div class="featured-wrap">
+                            <div class="featured-img">
+                                <img src="https://images.unsplash.com/photo-1546656495-fc838de15e5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="City Sightseeing">
+                                <div class="featured-content">
+                                    <a href="service.php">City Sightseeing</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
 
-            <!-- Cultural Heritage Tours -->
-            <div class="col-lg-4 items col-md-6 col-sm-6 col-12">
-                <div class="featured-wrap">
-                    <div class="featured-img">
-                        <img src="https://images.unsplash.com/photo-1588598198321-9735fd52455b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Cultural Heritage Tours">
-                        <div class="featured-content">
-                            <a >Cultural Heritage</a>
+                    <!-- Cultural Heritage Tours -->
+                    <div class="col-lg-4 items col-md-6 col-sm-6 col-12">
+                        <div class="featured-wrap">
+                            <div class="featured-img">
+                                <img src="https://images.unsplash.com/photo-1588598198321-9735fd52455b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Cultural Heritage Tours">
+                                <div class="featured-content">
+                                    <a href="service.php">Cultural Heritage</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
 
-            <!-- Wildlife Safari -->
-            <div class="col-lg-4 items col-md-6 col-sm-6 col-12">
-                <div class="featured-wrap">
-                    <div class="featured-img">
-                        <img src="https://images.unsplash.com/photo-1664280573140-1cfaa612c157?q=80&w=2122&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Wildlife Safari">
-                        <div class="featured-content">
-                            <a >Wildlife Safari</a>
+                    <!-- Wildlife Safari -->
+                    <div class="col-lg-4 items col-md-6 col-sm-6 col-12">
+                        <div class="featured-wrap">
+                            <div class="featured-img">
+                                <img src="https://images.unsplash.com/photo-1664280573140-1cfaa612c157?q=80&w=2122&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Wildlife Safari">
+                                <div class="featured-content">
+                                    <a href="service.php">Wildlife Safari</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
 
-            <!-- Adventure Activities -->
-            <div class="col-lg-4 items col-md-6 col-sm-6 col-12">
-                <div class="featured-wrap">
-                    <div class="featured-img">
-                        <img src="https://images.unsplash.com/photo-1692810123077-ebb9993aaff5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Adventure Activities">
-                        <div class="featured-content">
-                            <a>Activities</a>
+                    <!-- Adventure Activities -->
+                    <div class="col-lg-4 items col-md-6 col-sm-6 col-12">
+                        <div class="featured-wrap">
+                            <div class="featured-img">
+                                <img src="https://images.unsplash.com/photo-1692810123077-ebb9993aaff5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Adventure Activities">
+                                <div class="featured-content">
+                                    <a href="service.php">Activities</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
 
-            <!-- Island Hopping -->
-            <div class="col-lg-4 items col-md-6 col-sm-6 col-12">
-                <div class="featured-wrap">
-                    <div class="featured-img">
-                        <img src="https://images.unsplash.com/photo-1598255055647-47503261dccf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Island Hopping">
-                        <div class="featured-content">
-                            <a >Island Hopping</a>
+                    <!-- Island Hopping -->
+                    <div class="col-lg-4 items col-md-6 col-sm-6 col-12">
+                        <div class="featured-wrap">
+                            <div class="featured-img">
+                                <img src="https://images.unsplash.com/photo-1598255055647-47503261dccf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:50vh ;" alt="Island Hopping">
+                                <div class="featured-content">
+                                    <a href="service.php">Island Hopping</a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</div>
-<!-- featured-area end -->
+        <!-- featured-area end -->
 
 
         <!-- blog-area start -->
-<div class="blog-area ptb-100-70">
-    <div class="container">
-        <div class="col-12">
-            <div class="wpo-section-title">
-                <span>Blog Post</span>
-                <h2>Our Latest News</h2>
+        <div class="blog-area ptb-100-70">
+            <div class="container">
+                <div class="col-12">
+                    <div class="wpo-section-title">
+                        <span>Blog Post</span>
+                        <h2>Our Latest News</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <!-- Post 1: Things to do in Colombo -->
+                    <div class="col-lg-4 col-md-6 col-sm-6 custom-grid col-12">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <img src="https://images.unsplash.com/photo-1588245300911-bfddf050d738?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width:60vh ; height:45vh;" alt="Colombo">
+                            </div>
+                            <div class="blog-content">
+                                <ul class="post-meta">
+                                    <li><a>Sri Lanka</a></li>
+
+                                </ul>
+                                <h3><a href="destination.php">Top Things to Do in Colombo, Sri Lanka</a></h3>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Post 2: Exploring Kandy -->
+                    <div class="col-lg-4 col-md-6 col-sm-6 custom-grid col-12">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <img src="https://images.unsplash.com/photo-1562698013-ac13558052cd?q=80&w=2010&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width:60vh ; height:45vh;" alt="Kandy">
+                            </div>
+                            <div class="blog-content">
+                                <ul class="post-meta">
+                                    <li><a href="#">Sri Lanka</a></li>
+
+                                </ul>
+                                <h3><a href="destination.php">Exploring Kandy: The Heart of Sri Lanka’s Cultural Heritage</a></h3>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Post 3: Adventure in Ella -->
+                    <div class="col-lg-4 col-md-6 col-sm-6 custom-grid col-12">
+                        <div class="blog-item b-0">
+                            <div class="blog-img">
+                                <img src="https://images.unsplash.com/photo-1566766189268-ecac9118f2b7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width:60vh ; height:45vh;" alt="Ella">
+                            </div>
+                            <div class="blog-content">
+                                <ul class="post-meta">
+                                    <li><a href="destination.php">Sri Lanka</a></li>
+
+                                </ul>
+                                <h3><a href="destination.php">Adventure Awaits in Ella: Hiking and Scenic Views</a></h3>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-        <div class="row">
-            <!-- Post 1: Things to do in Colombo -->
-            <div class="col-lg-4 col-md-6 col-sm-6 custom-grid col-12">
-                <div class="blog-item">
-                    <div class="blog-img">
-                        <img src="https://images.unsplash.com/photo-1588245300911-bfddf050d738?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width:60vh ; height:45vh;" alt="Colombo">
-                    </div>
-                    <div class="blog-content">
-                        <ul class="post-meta">
-                            <li><a >Sri Lanka</a></li>
-                            
-                        </ul>
-                        <h3><a href="blog-single.html">Top Things to Do in Colombo, Sri Lanka</a></h3>
-                        
-                    </div>
-                </div>
-            </div>
+        <!-- blog-area end -->
 
-            <!-- Post 2: Exploring Kandy -->
-            <div class="col-lg-4 col-md-6 col-sm-6 custom-grid col-12">
-                <div class="blog-item">
-                    <div class="blog-img">
-                        <img src="https://images.unsplash.com/photo-1562698013-ac13558052cd?q=80&w=2010&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width:60vh ; height:45vh;" alt="Kandy">
-                    </div>
-                    <div class="blog-content">
-                        <ul class="post-meta">
-                            <li><a href="#">Sri Lanka</a></li>
-                            
-                        </ul>
-                        <h3><a href="blog-single.html">Exploring Kandy: The Heart of Sri Lanka’s Cultural Heritage</a></h3>
-                        
-                    </div>
-                </div>
-            </div>
-
-            <!-- Post 3: Adventure in Ella -->
-            <div class="col-lg-4 col-md-6 col-sm-6 custom-grid col-12">
-                <div class="blog-item b-0">
-                    <div class="blog-img">
-                        <img src="https://images.unsplash.com/photo-1566766189268-ecac9118f2b7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width:60vh ; height:45vh;" alt="Ella">
-                    </div>
-                    <div class="blog-content">
-                        <ul class="post-meta">
-                            <li><a href="#">Sri Lanka</a></li>
-                            
-                        </ul>
-                        <h3><a href="blog-single.html">Adventure Awaits in Ella: Hiking and Scenic Views</a></h3>
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- blog-area end -->
-
-
+       
 
     </div>
 

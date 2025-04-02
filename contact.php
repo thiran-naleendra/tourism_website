@@ -54,13 +54,13 @@
         <?php include 'header.php' ?>
         <!-- end of header -->
         <!-- start page-title -->
-        <section class="page-title">
+        <section class="page-title" style="background: url('https://images.pexels.com/photos/11677390/pexels-photo-11677390.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'); background-size: cover; background-position: center;">
             <div class="container">
                 <div class="row">
                     <div class="col col-xs-12">
                         <h2>Contact Us</h2>
                         <ol class="breadcrumb">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li>Contact</li>
                         </ol>
                     </div>
