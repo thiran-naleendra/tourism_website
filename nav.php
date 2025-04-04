@@ -23,5 +23,3 @@
         <a href="taxi.php">Book a Taxi</a>
     </li>
 </ul>
-
-

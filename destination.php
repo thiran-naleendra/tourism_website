@@ -7,10 +7,26 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="wpoceans">
+    <meta name="author" content="Pearl Lanka Tours">
+    <meta name="description" content="Explore the best travel destinations in Sri Lanka with Pearl Lanka Tours. Discover popular locations like Yala, Udawalawa, Mirissa, Jaffna, and Kandy. Book your tour today!">
+    <meta name="keywords" content="Sri Lanka travel, Yala tours, Udawalawa safaris, Mirissa beach, Jaffna tours, Kandy Sri Lanka, Pearl Lanka Tours">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph Meta Tags for Social Media -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Destinations in Sri Lanka - Pearl Lanka Tours">
+    <meta property="og:description" content="Explore the most beautiful destinations in Sri Lanka with Pearl Lanka Tours. Book your trip to Yala, Udawalawa, Mirissa, Jaffna, and Kandy.">
+    <meta property="og:image" content="https://www.pearllankatours.lk/images/destination-og.jpg">
+    <meta property="og:url" content="https://www.pearllankatours.lk/destination">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Destinations in Sri Lanka - Pearl Lanka Tours">
+    <meta name="twitter:description" content="Discover the top destinations in Sri Lanka with Pearl Lanka Tours. From safaris to beach escapes, book your unforgettable journey now.">
+    <meta name="twitter:image" content="https://www.pearllankatours.lk/images/destination-twitter.jpg">
 
     <!-- Page Title -->
-    <title>Perl Lanka Tours</title>
+    <title>Destinations in Sri Lanka - Pearl Lanka Tours</title>
 
     <!-- Icon fonts -->
     <link href="assets/css/themify-icons.css" rel="stylesheet">
@@ -48,15 +64,15 @@
     <!-- start page-wrapper -->
     <div class="page-wrapper">
 
-         <!-- start preloader -->
-           <div class="preloader">
-                <div class="spinner">
-                    <div class="bounce1"></div>
-                    <div class="bounce2"></div>
-                    <div class="bounce3"></div>
-                </div>
+        <!-- start preloader -->
+        <div class="preloader">
+            <div class="spinner">
+                <div class="bounce1"></div>
+                <div class="bounce2"></div>
+                <div class="bounce3"></div>
             </div>
-            <!-- end preloader -->
+        </div>
+        <!-- end preloader -->
         <!-- Start header -->
         <?php include 'header.php' ?>
         <!-- end of header -->
@@ -75,7 +91,7 @@
             </div> <!-- end container -->
         </section>
         <!-- end page-title -->
-        
+
 
         <!-- destination Company -->
         <div class="destination-service2 section-padding">
@@ -83,7 +99,7 @@
                 <div class="col-12">
                     <div class="wpo-section-title text-center">
                         <span>Populer Destination</span>
-                        <h2>Choose Your  Destination</h2>
+                        <h2>Choose Your Destination</h2>
                     </div>
                 </div>
                 <div class="destination-carousel owl-carousel owl-theme owl-btn-center-lr owl-dots-primary-full owl-btn-3 m-b30 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
@@ -95,26 +111,26 @@
                             <div class="destination-content">
                                 <div class="content-left">
                                     <h5>Yala</h5>
-                                    
+
                                 </div>
-                                
+
                             </div>
                         </div>
                     </div>
                     <div class="item">
                         <div class="service-media-bx">
                             <div class="destination-item">
-                            <div class="destination-img">
-                                <img src="https://images.unsplash.com/photo-1585840772220-8eadfa34a811?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:70vh ;" alt="">
-                            </div>
-                            <div class="destination-content">
-                                <div class="content-left">
-                                    <h5>Udawalawa</h5>
-                                    
+                                <div class="destination-img">
+                                    <img src="https://images.unsplash.com/photo-1585840772220-8eadfa34a811?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width: 80vh ; height:70vh ;" alt="">
                                 </div>
-                                
+                                <div class="destination-content">
+                                    <div class="content-left">
+                                        <h5>Udawalawa</h5>
+
+                                    </div>
+
+                                </div>
                             </div>
-                        </div>
                         </div>
                     </div>
                     <div class="item">
@@ -126,9 +142,9 @@
                                 <div class="destination-content">
                                     <div class="content-left">
                                         <h5>Mirissa</h5>
-                                        
+
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
@@ -142,9 +158,9 @@
                                 <div class="destination-content">
                                     <div class="content-left">
                                         <h5>Jaffna</h5>
-                                        
+
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
@@ -158,24 +174,24 @@
                                 <div class="destination-content">
                                     <div class="content-left">
                                         <h5>Kandy</h5>
-                                       
+
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>  
+            </div>
         </div>
         <!-- destination Company END -->
 
 
-       <!-- start wpo-site-footer -->
-    <?php include 'footer.php' ?>
-    <!-- end wpo-site-footer -->
+        <!-- start wpo-site-footer -->
+        <?php include 'footer.php' ?>
+        <!-- end wpo-site-footer -->
 
-            <!-- end wpo-site-footer -->
+        <!-- end wpo-site-footer -->
     </div>
 
 
@@ -196,4 +212,5 @@
 </body>
 
 <!-- Mirrored from wpocean.com/html/tf/varaus/destination.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Mar 2025 03:13:43 GMT -->
+
 </html>

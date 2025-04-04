@@ -8,7 +8,24 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="wpoceans">
+    <meta name="author" content="Pearl Lanka Tours">
+    <meta name="description" content="Discover the best tours and services with Pearl Lanka Tours. Explore activities like River Safari, Snake Farm Visit, Tea Plantation Visit, Whale Watching, and more. Book your Sri Lanka adventure today!">
+    <meta name="keywords" content="Sri Lanka tours, River Safari, Snake Farm Visit, Tea Plantation Visit, Whale Watching, Sea Fishing, Snorkeling, Ayurvedic Healing, Taxi Service, Pearl Lanka Tours">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph Meta Tags for Social Media -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Discover Our Services - Pearl Lanka Tours">
+    <meta property="og:description" content="Explore a wide range of services with Pearl Lanka Tours including safaris, visits to snake farms, whale watching, and more. Book your Sri Lanka adventure with us today.">
+    <meta property="og:image" content="https://www.pearllankatours.lk/images/service-og.jpg">
+    <meta property="og:url" content="https://www.pearllankatours.lk/service">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Discover Our Services - Pearl Lanka Tours">
+    <meta name="twitter:description" content="Join Pearl Lanka Tours for exciting services like River Safaris, Whale Watching, Tea Plantations, Snorkeling, Ayurvedic Healing, and more in Sri Lanka.">
+    <meta name="twitter:image" content="https://www.pearllankatours.lk/images/service-twitter.jpg">
+
 
     <!-- Page Title -->
     <title>Perl Lanka Tours</title>
@@ -39,11 +56,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
 
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+
 
 </head>
 
@@ -137,7 +150,7 @@
                                         </div>
                                         <div class="room-text-hide">
                                             <h2>Snake Farm Visit</h2>
-                                            
+
                                             <p>Get a rare opportunity to observe nearly 50% of Sri Lanka’s snake species in their natural habitat.
                                                 <li>🔎 See Various Snake Species</li>
                                                 <li>🌿 Learn About Their Habitats</li>
@@ -155,7 +168,7 @@
                                         </div>
                                         <div class="room-text-hide">
                                             <h2>Tea Plantation Visit</h2>
-                                            
+
                                             <p>Step into the lush tea plantations and experience the journey from leaf to cup.
                                                 <li>🌱 Walk Through Tea Fields</li>
                                                 <li>🍂 See the Tea-Making Process</li>
@@ -194,13 +207,13 @@
                                         </div>
                                         <div class="room-text-hide">
                                             <h2>Whale Watching </h2>
-                                            <p> 
-                                            🌊 Mirissa (Nov–Apr) | 🌊 Trincomalee (May–Sep) | 🌊 Kalpitiya
-                                            <li> Blue Whales – The world's largest animal</li>
-                                            <li> Sperm Whales & Dolphins – Frequent sightings</li>
-                                            <li> Sea Turtles & Flying Fish – A delightful bonus</li>
-                                            <li> Duration: 3–5 hours | 🕕 Starts at: 6:00 AM</li>
-                                            <li> Includes:Snacks, expert guides & safety gear</li>
+                                            <p>
+                                                🌊 Mirissa (Nov–Apr) | 🌊 Trincomalee (May–Sep) | 🌊 Kalpitiya
+                                                <li> Blue Whales – The world's largest animal</li>
+                                                <li> Sperm Whales & Dolphins – Frequent sightings</li>
+                                                <li> Sea Turtles & Flying Fish – A delightful bonus</li>
+                                                <li> Duration: 3–5 hours | 🕕 Starts at: 6:00 AM</li>
+                                                <li> Includes:Snacks, expert guides & safety gear</li>
                                             </p>
                                         </div>
                                     </div>
@@ -218,9 +231,9 @@
                                             <p>Experience the thrill of deep-sea fishing in Sri Lanka’s rich waters! Whether you're a beginner or an expert, enjoy an unforgettable fishing trip with our skilled guides.
                                                 <li>🚤 Boat & Equipment</li>
                                                 <li>🐟 Target Fish</li>
-                                                <li>🌅 Best Time 
+                                                <li>🌅 Best Time
                                                 </li>Early morning or late afternoon for the best catch
-                                                
+
                                             </p>
 
                                         </div>
@@ -240,7 +253,7 @@
                                                 <li>🐠 Swim with Colorful Fish</li>
                                                 <li>🌊 Clear Waters & Coral Reefs</li>
                                                 <li>🚤 Safe & Guided Tours </li>
-                                                
+
                                             </p>
 
                                         </div>
@@ -261,7 +274,7 @@
                                                 <li>🐠 Coral Reefs & Shipwrecks</li>
                                                 <li>🌊 Rich Marine Life</li>
                                                 <li>🚤 Safe & Guided Dives </li>
-                                                
+
                                             </p>
 
                                         </div>
@@ -283,7 +296,7 @@
                                                 <li> Herbal Oil Massages</li>
                                                 <li> Steam Therapy</li>
                                                 <li>Personalized Treatments</li>
-                                                
+
                                             </p>
 
                                         </div>
@@ -307,7 +320,7 @@
                                                 <li> 🛺 Tuk Tuks</li>
                                                 <li>🚗 Cars</li>
                                                 <li>🚐 Vans & Mini Buses</li>
-                                                
+
                                             </p>
 
                                         </div>

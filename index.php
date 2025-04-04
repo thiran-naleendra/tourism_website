@@ -6,12 +6,20 @@
 
 <head>
     <!-- Meta Tags -->
+    <!-- Meta Tags -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="wpoceans">
+    <meta name="author" content="Pearl Lanka Tours">
+    <meta name="description" content="Pearl Lanka Tours offers the best tours in Sri Lanka, including safaris, cultural heritage visits, and adventure activities. Book your tour today!">
+    <meta name="keywords" content="Sri Lanka tours, safari, cultural heritage, adventure, sightseeing, Pearl Lanka Tours">
+    <meta name="robots" content="index, follow">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Pearl Lanka Tours - Discover the Best Tours in Sri Lanka">
+    <meta property="og:description" content="Experience the best of Sri Lanka with Pearl Lanka Tours. Book safaris, cultural tours, and adventure activities.">
+    <meta property="og:image" content="https://www.pearllankatours.lk/images/og-image.jpg">
     <!-- Page Title -->
-    <title>Perl Lanka</title>
+    <title>Best Tours in Sri Lanka - Pearl Lanka Tours</title>
     <!-- Icon fonts -->
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">
@@ -448,7 +456,7 @@
         </div>
         <!-- blog-area end -->
 
-       
+
 
     </div>
 

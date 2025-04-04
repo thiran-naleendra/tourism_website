@@ -1,17 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
-
-
 <head>
     <!-- Meta Tags -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="wpoceans">
+    <meta name="author" content="Pearl Lanka Tours">
+    <meta name="description" content="Book a reliable and affordable taxi service with Pearl Lanka Tours. Choose from bikes, tuk-tuks, cars, vans, and mini-buses for your travel across Sri Lanka.">
+    <meta name="keywords" content="book taxi, Sri Lanka taxi service, Pearl Lanka Tours, tuk-tuk, van rental, mini-bus, bike rental, reliable taxi service, Sri Lanka travel">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph Meta Tags for Social Media -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Book a Taxi with Pearl Lanka Tours - Affordable and Reliable Transport">
+    <meta property="og:description" content="Travel across Sri Lanka with ease. Book your taxi now with Pearl Lanka Tours and choose from bikes, tuk-tuks, cars, vans, and mini-buses.">
+    <meta property="og:image" content="https://www.pearllankatours.lk/assets/images/taxi-booking.jpg">
+    <meta property="og:url" content="https://www.pearllankatours.lk/book-taxi">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Book a Taxi with Pearl Lanka Tours - Affordable and Reliable Transport">
+    <meta name="twitter:description" content="Book your reliable taxi with Pearl Lanka Tours. We offer bikes, tuk-tuks, cars, vans, and mini-buses for your convenience across Sri Lanka.">
+    <meta name="twitter:image" content="https://www.pearllankatours.lk/assets/images/taxi-booking.jpg">
+
     <!-- Page Title -->
-    <title>Perl Lanka</title>
+    <!-- Page Title -->
+    <title>Book a Taxi with Pearl Lanka Tours - Sri Lanka Taxi Service</title>
     <!-- Icon fonts -->
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">
@@ -263,7 +278,7 @@
                     <div class="contact-map">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3968.044901519789!2d80.36295287498848!3d5.988555593996467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNcKwNTknMTguOCJOIDgwwrAyMSc1NS45IkU!5e0!3m2!1sen!2slk!4v1743660002074!5m2!1sen!2slk" allowfullscreen></iframe>
                     </div>
-                    
+
                 </div>
             </div>
         </div>
@@ -285,6 +300,6 @@
 </body>
 
 
-<!-- Mirrored from wpocean.com/html/tf/varaus/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Mar 2025 03:13:51 GMT -->
+
 
 </html>

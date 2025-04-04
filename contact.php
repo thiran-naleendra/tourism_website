@@ -1,17 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
-<!-- Mirrored from wpocean.com/html/tf/varaus/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Mar 2025 03:13:51 GMT -->
-
 <head>
+    <!-- Meta Tags -->
     <!-- Meta Tags -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="wpoceans">
+    <meta name="author" content="Pearl Lanka Tours">
+    <meta name="description" content="Get in touch with Pearl Lanka Tours for the best travel and tour services in Sri Lanka. Contact us for booking inquiries or other information.">
+    <meta name="keywords" content="Contact Pearl Lanka Tours, Sri Lanka travel, tour booking, contact us, Sri Lanka tours">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph Meta Tags for Social Media -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Contact Us - Pearl Lanka Tours">
+    <meta property="og:description" content="Reach out to Pearl Lanka Tours for inquiries, bookings, and more. We're here to help you plan your dream tour in Sri Lanka.">
+    <meta property="og:image" content="https://www.pearllankatours.lk/images/contact-us-og.jpg">
+    <meta property="og:url" content="https://www.pearllankatours.lk/contact">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Contact Us - Pearl Lanka Tours">
+    <meta name="twitter:description" content="Contact Pearl Lanka Tours for tour bookings, inquiries, and more. We provide the best Sri Lanka travel experiences.">
+    <meta name="twitter:image" content="https://www.pearllankatours.lk/images/contact-us-twitter.jpg">
+
     <!-- Page Title -->
-    <title>Perl Lanka Tours</title>
+    <title>Contact Us - Pearl Lanka Tours</title>
     <!-- Icon fonts -->
     <link href="assets/css/themify-icons.css" rel="stylesheet">
     <link href="assets/css/flaticon.css" rel="stylesheet">
@@ -32,10 +47,7 @@
     <!-- Custom styles for this template -->
     <link href="assets/css/style.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+
 </head>
 
 <body id="home">
