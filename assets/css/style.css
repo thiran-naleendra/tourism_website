@@ -143,7 +143,7 @@ button:focus {
 .ptb-100-70{
   padding: 100px 0 70px;
 }
-/*** back to top **/
+/* ** back to top *
 .back-to-top {
   background-color: rgba(0,214,144,.7);
   border: 2px solid #00d690;
@@ -189,7 +189,7 @@ button:focus {
   -o-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-}
+} */
 /*===================================
 0.3  header-style
 ====================================*/

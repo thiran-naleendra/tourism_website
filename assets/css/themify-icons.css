@@ -140,18 +140,7 @@
 .ti-marker-alt:before {
 	content: "\e626";
 }
-.ti-arrow-up:before {
-	content: "\e627";
-}
-.ti-arrow-right:before {
-	content: "\e628";
-}
-.ti-arrow-left:before {
-	content: "\e629";
-}
-.ti-arrow-down:before {
-	content: "\e62a";
-}
+
 .ti-lock:before {
 	content: "\e62b";
 }

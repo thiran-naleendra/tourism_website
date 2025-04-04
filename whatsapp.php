@@ -2,7 +2,7 @@
     /* WhatsApp Button Styles */
     .whatsapp-button {
         position: fixed;
-        bottom: 90px;
+        bottom: 20px;
         right: 20px;
         background-color: #25D366;
         border-radius: 50%;
