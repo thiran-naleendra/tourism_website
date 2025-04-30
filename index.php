@@ -133,7 +133,7 @@
                                     <p>Make Your Life Better and Bright! You must trip with Us!</p>
                                 </div>
                                 <div class="btns">
-                                    <a href="https://wa.link/zmr3d9" class="theme-btn">Book A Room</a>
+                                    <a href="https://wa.link/zmr3d9" class="theme-btn">Book A Tour</a>
                                 </div>
                             </div>
                         </div>
