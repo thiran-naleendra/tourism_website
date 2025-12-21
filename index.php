@@ -10,6 +10,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.png" type="image/png" sizes="48x48">
+    <link rel="icon" href="/favicon-32x32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="/favicon-16x16.png" sizes="16x16" type="image/png">
+    <link rel="manifest" href="/site.webmanifest">
     <meta name="author" content="Pearl Lanka Tours">
     <meta name="description" content="Pearl Lanka Tours offers the best tours in Sri Lanka, including safaris, cultural heritage visits, and adventure activities. Book your tour today!">
     <meta name="keywords" content="Sri Lanka tours, safari, cultural heritage, adventure, sightseeing, Pearl Lanka Tours">
