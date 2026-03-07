@@ -6,7 +6,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-6 col-12 custom-grid">
                         <div class="logo widget-title">
-                            <img src="assets/images/LG01.png" width="100px" alt="blog">
+                            <img src="assets/images/LG02.jpg" width="100px" alt="blog">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 col-12 custom-grid">
