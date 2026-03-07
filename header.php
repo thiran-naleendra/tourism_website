@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="index.php">
-                    <img src="assets/images/LG01.png" style="width: 60px; height:auto;" alt="">
+                    <img src="assets/images/LG02.jpg" style="width: 80px; height:auto;" alt="">
                 </a>
             </div>
             <div id="navbar" class="navbar-collapse collapse navigation-holder" style="display: flex; margin-left: auto;">
